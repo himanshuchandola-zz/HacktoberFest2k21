@@ -1,8 +1,10 @@
-#Connect on LinkedIn
-https://www.linkedin.com/in/programmershri/
-<br/>
+
 ![hacktober](https://user-images.githubusercontent.com/73641466/135753072-1416b24c-cef1-4d31-96ed-6188df76f1e2.jpg)
 # Hacktober2K21-DSA
+
+# My LinkedIn https://www.linkedin.com/in/programmershri/
+
+<br/>
 ## What to do?
 #### 1 You can add any piece of code or project, you want to share.
 #### 2 There is no need to raise an issue, you can directly create a pull request.
