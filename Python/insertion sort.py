@@ -6,11 +6,11 @@ def ISort(arr):
       # greater than ele, to one position ahead
       # of their current position
       ele = arr[i]
-      j = i-1
-      while j >= 0 and ele < arr[j] :
-            arr[j + 1] = arr[j]
-            j -= 1
-      arr[j + 1] = ele
+      pos = i-1
+      while pos >= 0 and ele < arr[pos] :
+            arr[pos + 1] = arr[pos]
+            pos -= 1
+      arr[pos + 1] = ele
 
 arr=[]
 
